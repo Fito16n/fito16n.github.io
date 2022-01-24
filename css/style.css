@@ -1,13 +1,29 @@
 body {
   /* background-color: rgb(255, 242, 228); */
-  background-color: rgb(151, 195, 183);
+  background-color: antiquewhite;
 }
 
 h1 {
   color: rgb(88, 88, 88);
   font-size: 6rem;
   font-family: bennet-banner-extra-condense, sans-serif;
+  letter-spacing: 4px;
   padding-left: 30px;
+}
+
+h2 {
+  color: rgb(88, 88, 88);
+  font-size: 4.5rem;
+  font-family: bennet-banner-extra-condense, sans-serif;
+  letter-spacing: 3px;
+  padding-left: 30px;
+}
+
+a {
+  color: rgb(88, 88, 88);
+  font-size: 1.3rem;
+  font-family: Arial, Helvetica, sans-serif, Times, serif, sans-serif;
+  font-style: normal;
 }
 
 p {
@@ -16,5 +32,13 @@ p {
   font-family: Arial, Helvetica, sans-serif, Times, serif, sans-serif;
   font-style: normal;
   padding-left: 30px;
+  padding-right: 30px;
   letter-spacing: 1px;
 }
+
+section.work {
+  background-color: rgb(200, 210, 208);
+  margin-left: -0.8%;
+  margin-right: -0.8%;
+}
+
