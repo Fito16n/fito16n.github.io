@@ -1,6 +1,6 @@
 body {
   /* background-color: rgb(255, 242, 228); */
-  background-color: antiquewhite;
+  background-color: rgb(255, 241, 242);
 }
 
 h1 {
@@ -17,6 +17,7 @@ h2 {
   font-family: bennet-banner-extra-condense, sans-serif;
   letter-spacing: 3px;
   padding-left: 30px;
+  padding-top: 30px;
 }
 
 a {
@@ -37,7 +38,7 @@ p {
 }
 
 section.work {
-  background-color: rgb(200, 210, 208);
+  background-color: rgb(255, 255, 255);
   margin-left: -0.8%;
   margin-right: -0.8%;
 }
